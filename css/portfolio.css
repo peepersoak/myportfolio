@@ -1,0 +1,20 @@
+.my-logo {
+    height: 72px;
+}
+
+
+.header-wrapper {
+    text-align: center;
+}
+
+header.masthead {
+    background-image: url(../img/body-background.jpg);
+}
+
+.nav-design {
+    background-color: rgba(0,0,0,0.3) !important;
+}
+
+#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
+    color:  white !important
+}
